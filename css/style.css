@@ -31,13 +31,13 @@ body {
 
 @media screen and (min-width: 1001px) {
 	.card {
-		margin-left: 32%;
+		margin-left: 29%;
 		margin-top: 2%;
 		padding: 0px;
-		background-color: white;
+		background-color: rgb(255, 255, 255);
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 		transition: 0.3s;
-		width: 35%;
+		width: 40%;
 		border-radius: 5px;
 	}
 	.card:hover {
@@ -84,8 +84,8 @@ body {
 		display: block;
 		background-color: rgba(175,133,255,1);
 		padding: 10px;
-		margin-left: 7%;
-		margin-right: 7%;
+		margin-left: 28%;
+		margin-right: 30%;
 		border-radius: 8px;
 	}
 }
